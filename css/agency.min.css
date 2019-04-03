@@ -18,7 +18,7 @@
 @media (min-width: 768px){
 #about .para h3
  {
-		font-size: 1.35rem;
+		font-size: 1.6rem;
 
 }}
 
@@ -47,7 +47,7 @@
 @media (min-width: 991px){
 .masthead h1 {
     font-size: 2.8rem;
-    line-height: 3.1rem;
+    line-height: 4rem;
 }}
 
 
@@ -657,7 +657,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-	background: url(grad.png) no-repeat center center;
+	background: url(grad2.png) no-repeat center center;
 	z-index: 0;
 
 }
